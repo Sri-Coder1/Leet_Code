@@ -15,4 +15,6 @@ def MergeAlternateString(str1,str2):
 str1 = input("Enter the first word ")
 str2 = input("Enter the second word ")
 
+
 print(MergeAlternateString(str1,str2))
+print("thank you")
