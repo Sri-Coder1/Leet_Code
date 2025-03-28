@@ -1,3 +1,4 @@
+#Merging alternate characters in 2 words.
 def MergeAlternateString(str1,str2):
     str3 = ""
     mi = min(len(str1),len(str2))
@@ -14,7 +15,6 @@ def MergeAlternateString(str1,str2):
 
 str1 = input("Enter the first word ")
 str2 = input("Enter the second word ")
-
 
 print(MergeAlternateString(str1,str2))
 print("thank you")
